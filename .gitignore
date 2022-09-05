@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+.DS_store
+historical_transactions.csv
+card_purchases.txt
